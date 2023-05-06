@@ -1,5 +1,9 @@
 /*/*mobile devices **/
 @media (max-width: 767px){
+    #big-img {
+        max-width: 100%;
+        height: auto;
+    }
 	.hero-section{
 		/*background-size: contain;
 		    height: 100vh;
